@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Baseline Application Cooperation (IS)"
+    name="Application Architecture (Baseline)"
     id="id-09f52100407e4fd6a1376a555e4d3a5c">
   <children
       xsi:type="archimate:DiagramModelGroup"
